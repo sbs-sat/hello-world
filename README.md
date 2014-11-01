@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-First sample project
+This is the README of my First sample project.
